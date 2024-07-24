@@ -1,4 +1,4 @@
-# MiuiGallery & Tools
+# Dialer 
 
 ### This Command Line Should Be Present In Device.mk ###
 ```bash
